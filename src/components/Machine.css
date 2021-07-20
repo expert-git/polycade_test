@@ -1,0 +1,10 @@
+.pannel {
+	width: 40%;
+	margin: 1rem;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.field {
+	display: block;
+}
